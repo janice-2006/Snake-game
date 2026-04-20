@@ -1,7 +1,3 @@
-<img width="1864" height="784" alt="image" src="https://github.com/user-attachments/assets/43d045aa-70cf-4574-80cc-ad2ade1c77dc" />
-<img width="1918" height="851" alt="image" src="https://github.com/user-attachments/assets/e7307613-9a26-448c-8a1f-a5ce422c6984" />
-Here's a polished README description you can use for your SNAKEY! game:
-
 🐍 SNAKEY! — A Colorful Snake Game
 SNAKEY! is a fun and visually vibrant browser-based Snake game built with pure HTML5, CSS, and JavaScript — no libraries or frameworks needed.
 
@@ -36,3 +32,5 @@ Best part is no installation or setup needed!
 Clone or download the repository.
 Open snake-game.html directly in any modern web browser.
 Click ▶ Play Game and start eating!
+<img width="1864" height="784" alt="image" src="https://github.com/user-attachments/assets/43d045aa-70cf-4574-80cc-ad2ade1c77dc" />
+<img width="1918" height="851" alt="image" src="https://github.com/user-attachments/assets/e7307613-9a26-448c-8a1f-a5ce422c6984" />
